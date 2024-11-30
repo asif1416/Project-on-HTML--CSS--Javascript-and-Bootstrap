@@ -1,0 +1,13 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+body {
+    background: #252525;
+    font-family: "Baloo Tamma 2", cursive;
+  }
+
+.card{
+    background-color: #5b5858;
+    border: 1px solid #f5ba09;
+}
